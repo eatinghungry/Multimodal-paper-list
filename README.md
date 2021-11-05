@@ -1,5 +1,6 @@
 # Multimodal-paper-list
-整理一下ACL EMNLP AAAI上MM的论文
+
+汇总一下ACL EMNLP AAAI上多模态的论文
 
 ##EMNLP21
 
