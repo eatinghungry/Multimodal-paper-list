@@ -1,8 +1,9 @@
 # Multimodal-paper-list
 整理一下ACL EMNLP AAAI上MM的论文
-EMNLP21
 
-**多模态**
+##EMNLP21
+
+###**多模态**
 
 1、Inflate and Shrink:Enriching and Reducing Interactions for Fast Text-Image Retrieval
 
@@ -146,7 +147,7 @@ EMNLP21
 
 
 
-ACL21 MM
+##ACL21 MM
 
  汇总
 
@@ -178,24 +179,41 @@ ACL21 MM
 24. QASR:     QCRI Aljazeera Speech Resource A Large Scale Annotated Arabic Speech     Corpus
 
 
-AAAI21
+##AAAI21
 1.ERNIE-ViL: Knowledge Enhanced Vision-Language Representations Through Scene Graph
+
 2.VIVO: Visual Vocabulary Pre-Training for Novel Object Captioning
+
 3.RpBERT: A Text-Image Relation Propagation-Based BERT Model for Multimodal NER
+
 4.Efficient Object-Level Visual Context Modeling for Multimodal Machine Translation: Masking Irrelevant Objects Helps Grounding
+
 5.Commonsense Knowledge Aware Concept Selection For Diverse and Informative Visual Storytelling
+
 6.Multi-modal Graph Fusion for Named Entity Recognition with Targeted Visual Guidance
+
 7.Non-Autoregressive Coarse-to-Fine Video Captioning
+
 8.Augmented Partial Mutual Learning with Frame Masking for Video Captioning
+
 9.Mind-the-Gap! Unsupervised Domain Adaptation for Text-Video Retrieval
+
 10.Dense Events Grounding in Video
+
 11.Boundary Proposal Network for Two-Stage Natural Language Video Localization
+
 12.Audio-Oriented Multimodal Machine Comprehension via Dynamic Inter- and Intra-modality Attention
+
 13.MUFASA: Multimodal Fusion Architecture Search for Electronic Health Records
+
 14.VMLoc: Variational Fusion For Learning-Based Multimodal Camera Localization
+
 15.FL-MSRE: A Few-Shot Learning based Approach to Multimodal Social Relation Extraction
+
 16.Learning Modality-Specific Representations with Self-Supervised Multi-Task Learning for Multimodal Sentiment Analysis
+
 17.Multi-modal Multi-label Emotion Recognition with Heterogeneous Hierarchical Message Passing
+
 18.Embracing Domain Differences in Fake News: Cross-domain Fake News Detection using Multimodal Data
 
 
